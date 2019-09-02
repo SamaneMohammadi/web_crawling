@@ -1,0 +1,351 @@
+
+-------------------------------------- PoliticsNews -------------------------------------
+
+Feed title: Reuters: Politics
+---------------------------------------------------------------------------------------------
+
+Feed Link: https://www.reuters.com
+---------------------------------------------------------------------------------------------
+
+Feed Subtitle: Reuters.com is your source for breaking news, business, financial and investing news, including personal finance and stocks.  Reuters is the leading global provider of news, financial information and technology solutions to the world's media, financial institutions, businesses and individuals.
+---------------------------------------------------------------------------------------------
+
+Feed rights: All rights reserved. Users may download and print extracts of content from this website for their own personal and non-commercial use only. Republication or redistribution of Reuters content, including by framing or similar means, is expressly prohibited without the prior written consent of Reuters. Reuters and the Reuters sphere logo are registered trademarks or trademarks of the Reuters group of companies around the world. © Reuters 2018
+---------------------------------------------------------------------------------------------
+
+post title : Trump's top choice for chief of staff not taking job; other candidates in running
+
+post link : http://feeds.reuters.com/~r/Reuters/PoliticsNews/~3/v18yjfYN9n0/trumps-top-choice-for-chief-of-staff-not-taking-job-other-candidates-in-running-idUSKBN1O80RD
+
+post summary : Nick Ayers, Donald Trump's top choice to be his next chief of staff, is no longer in the running and the U.S. president is now considering at least two other candidates, sources familiar with the matter said on Sunday, the latest sign of a chaotic White House staff shake-up.
+
+post published : Sun, 09 Dec 2018 21:09:47 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Top Democrats say Trump may face impeachment, jail over hush money
+
+post link : http://feeds.reuters.com/~r/Reuters/PoliticsNews/~3/qB0UEyGdCI8/top-democrats-say-trump-may-face-impeachment-jail-over-hush-money-idUSKBN1O80I9
+
+post summary : U.S. President Donald Trump could face impeachment and jail time if hush money payments reported by his former lawyer are proven to be campaign finance violations, Democratic lawmakers said on Sunday.
+
+post published : Sun, 09 Dec 2018 19:17:32 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Trump backs $750 billion defense budget request to Congress: official
+
+post link : http://feeds.reuters.com/~r/Reuters/PoliticsNews/~3/3gxJ9Ci0Tgk/trump-backs-750-billion-defense-budget-request-to-congress-official-idUSKBN1O900I
+
+post summary : U.S. President Donald Trump has backed plans to request $750 billion from Congress for defense spending next year, a U.S. official said on Sunday, signaling a Pentagon spending hike at a time of potential belt-tightening elsewhere in the government.
+
+post published : Sun, 09 Dec 2018 19:15:25 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : With new chief of staff, Trump tries again to reset White House
+
+post link : http://feeds.reuters.com/~r/Reuters/PoliticsNews/~3/1QMqj7ovGP8/with-new-chief-of-staff-trump-tries-again-to-reset-white-house-idUSKBN1O80JI
+
+post summary : Nick Ayers, in talks with President Donald Trump to become his new White House chief of staff, is a 36-year-old political whiz-kid who could help with the looming re-election campaign, but critics question whether he has the grit needed to keep Trump and an often chaotic administration under control.
+
+post published : Sun, 09 Dec 2018 11:51:51 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : FBI investigated four Americans on Russia collusion suspicions: Comey
+
+post link : http://feeds.reuters.com/~r/Reuters/PoliticsNews/~3/W_4Vk0EJB1o/fbi-investigated-four-americans-on-russia-collusion-suspicions-comey-idUSKBN1O70T3
+
+post summary : The FBI launched investigations of four Americans in July 2016 into whether they helped Russia's alleged efforts to interfere in the 2016 U.S. presidential election, former FBI Director James Comey said in remarks released on Saturday.
+
+post published : Sun, 09 Dec 2018 10:00:12 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Trump calls for end to Mueller probe despite Russian campaign bid findings
+
+post link : http://feeds.reuters.com/~r/Reuters/PoliticsNews/~3/KFCP1WJZCco/trump-calls-for-end-to-mueller-probe-despite-russian-campaign-bid-findings-idUSKBN1O70GP
+
+post summary : U.S. President Donald Trump on Saturday renewed his call to end a federal probe into Russian election meddling, describing the investigation as a "witch hunt" a day after U.S. prosecutors detailed a previously unknown attempt by a Russian to help his 2016 presidential election campaign.
+
+post published : Sun, 09 Dec 2018 00:21:00 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : U.S. prosecutors name Trump in hush payments, detail Russian contacts
+
+post link : http://feeds.reuters.com/~r/Reuters/PoliticsNews/~3/lway35nMS2s/u-s-prosecutors-name-trump-in-hush-payments-detail-russian-contacts-idUSKBN1O60P2
+
+post summary : U.S. prosecutors said on Friday President Donald Trump directed his personal lawyer to make illegal hush payments to two women ahead of the 2016 election, and also detailed a previously unknown attempt by a Russian to help the Trump campaign.
+
+post published : Sat, 08 Dec 2018 20:09:08 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Trump says Kelly will leave chief of staff job at end of year
+
+post link : http://feeds.reuters.com/~r/Reuters/PoliticsNews/~3/1ik-6vvei-M/trump-says-kelly-will-leave-chief-of-staff-job-at-end-of-year-idUSKBN1O70R1
+
+post summary : White House Chief of Staff John Kelly will leave his job at the end of the year, U.S. President Donald Trump said on Saturday, his latest staff shakeup since midterm elections a month ago cost Republicans control of the House of Representatives.
+
+post published : Sat, 08 Dec 2018 18:44:30 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Trump is in talks with Pence aide Ayers to replace Kelly
+
+post link : http://feeds.reuters.com/~r/Reuters/PoliticsNews/~3/9GlHf0RI4yo/trump-is-in-talks-with-pence-aide-ayers-to-replace-kelly-idUSKBN1O70RZ
+
+post summary : U.S. President Donald Trump is talking to an aide to Vice President Mike Pence about serving as replacement for out-going White House Chief of Staff John Kelly, a White House official said on Saturday.
+
+post published : Sat, 08 Dec 2018 18:44:30 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Factbox: Trump administration departures, resignations and firings
+
+post link : http://feeds.reuters.com/~r/Reuters/PoliticsNews/~3/XF-wG_4LuFg/factbox-trump-administration-departures-resignations-and-firings-idUSKBN1O70TQ
+
+post summary : President Donald Trump said on Saturday that White House Chief of Staff John Kelly will leave his job at the end of the year, extending the historically high turnover in the top ranks of his administration.
+
+post published : Sat, 08 Dec 2018 18:44:30 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Trump to nominate Milley as next chairman of Joint Chiefs
+
+post link : http://feeds.reuters.com/~r/Reuters/PoliticsNews/~3/Z0jw9uVVTlQ/trump-to-nominate-milley-as-next-chairman-of-joint-chiefs-idUSKBN1O70JS
+
+post summary : U.S. President Donald Trump announced on Saturday that he would nominate four-star Army General Mark Milley to be the next chairman of the Joint Chiefs of Staff.
+
+post published : Sat, 08 Dec 2018 13:55:10 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : U.S. appeals court will not restore Trump asylum order
+
+post link : http://feeds.reuters.com/~r/Reuters/PoliticsNews/~3/GabB5rsmFpk/u-s-appeals-court-will-not-restore-trump-asylum-order-idUSKBN1O703K
+
+post summary : A U.S. appeals court handed President Donald Trump a defeat on Friday when it refused to allow his order barring asylum for immigrants who enter the country illegally to take effect, while a court challenge proceeds.
+
+post published : Sat, 08 Dec 2018 07:09:39 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Explainer: How does extradition to the U.S. work?
+
+post link : http://feeds.reuters.com/~r/Reuters/PoliticsNews/~3/zs2rICA8utM/explainer-how-does-extradition-to-the-u-s-work-idUSKBN1O528Y
+
+post summary : The arrest in Canada of a top Chinese technology executive for possible extradition to the United States has roiled markets and cast doubt on a recent U.S.-China trade truce.
+
+post published : Fri, 07 Dec 2018 22:29:54 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Ex-FBI chief Comey agrees to testify for second day before House panels
+
+post link : http://feeds.reuters.com/~r/Reuters/PoliticsNews/~3/atR8HwQUnyw/ex-fbi-chief-comey-agrees-to-testify-for-second-day-before-house-panels-idUSKBN1O62GM
+
+post summary : Former FBI Director James Comey testified about former Secretary of State Hillary Clinton's emails behind closed doors on Friday before House of Representatives lawmakers and said he believed the session could have been public.
+
+post published : Fri, 07 Dec 2018 20:29:35 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : North Carolina elections board identifies 'person of interest' in fraud probe
+
+post link : http://feeds.reuters.com/~r/Reuters/PoliticsNews/~3/D62p_Uj7_j0/north-carolina-elections-board-identifies-person-of-interest-in-fraud-probe-idUSKBN1O62BQ
+
+post summary : North Carolina's board of elections named political consultant Leslie McCrae Dowless as a person of interest on Friday amid a probe of possible absentee ballot fraud in a disputed U.S. congressional election.
+
+post published : Fri, 07 Dec 2018 20:21:25 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Mueller: ex-Trump campaign chairman Manafort lied to investigators about funds, contacts
+
+post link : http://feeds.reuters.com/~r/Reuters/PoliticsNews/~3/DwEHBLgT7_I/mueller-ex-trump-campaign-chairman-manafort-lied-to-investigators-about-funds-contacts-idUSKBN1O62K5
+
+post summary : U.S. President Donald Trump's former campaign chairman Paul Manafort lied to federal investigators about a payment and contacts with Trump administration officials, the U.S. special counsel investigating whether Trump's 2016 campaign colluded with Russia said in a court filing on Friday.
+
+post published : Fri, 07 Dec 2018 18:55:50 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : N.Y. federal prosecutors seek prison for former Trump lawyer Cohen
+
+post link : http://feeds.reuters.com/~r/Reuters/PoliticsNews/~3/c8GCVEFwnPU/n-y-federal-prosecutors-seek-prison-for-former-trump-lawyer-cohen-idUSKBN1O62FN
+
+post summary : Federal prosecutors in Manhattan on Friday asked a judge to sentence Michael Cohen, U.S. President Donald Trump's former personal lawyer, to a "substantial term of imprisonment" for paying an adult film star hush money on Trump's behalf and evading taxes.
+
+post published : Fri, 07 Dec 2018 17:06:22 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Trump seen picking Army head Milley as next chairman of Joint Chiefs
+
+post link : http://feeds.reuters.com/~r/Reuters/PoliticsNews/~3/MQO8icrrCYE/trump-seen-picking-army-head-milley-as-next-chairman-of-joint-chiefs-idUSKBN1O629W
+
+post summary : U.S. President Donald Trump is expected to name the Army's top general, Mark Milley, as the next chairman of the Joint Chiefs of Staff, U.S. officials told Reuters on Friday, in a decision that appears to be coming months earlier than expected.
+
+post published : Fri, 07 Dec 2018 17:04:58 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Trump calls Tillerson 'dumb as a rock' and 'lazy'
+
+post link : http://feeds.reuters.com/~r/Reuters/PoliticsNews/~3/67Nx2uCYP-g/trump-calls-tillerson-dumb-as-a-rock-and-lazy-idUSKBN1O62CO
+
+post summary : U.S. President Donald Trump on Friday called former Secretary of State Rex Tillerson "dumb as a rock" and "lazy as hell" a day after the former diplomat said he had warned the president against doing things that would violate the law.
+
+post published : Fri, 07 Dec 2018 16:38:59 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Trump picks attorney general and U.N. envoy in fresh staff shake-up
+
+post link : http://feeds.reuters.com/~r/Reuters/PoliticsNews/~3/lErtR2hIH04/trump-picks-attorney-general-and-u-n-envoy-in-fresh-staff-shake-up-idUSKBN1O61YN
+
+post summary : In another senior staff shake-up inside his often turbulent administration, U.S. President Donald Trump said on Friday he has picked the two people he wants to be the next U.S. attorney general and the next U.S. ambassador to the United Nations.
+
+post published : Fri, 07 Dec 2018 15:30:49 -0500
+-------------------------------------------------------------------------------------------------------------
+-------------------------------------- sportsNews -------------------------------------
+
+Feed title: Reuters: Sports News
+---------------------------------------------------------------------------------------------
+
+Feed Link: https://www.reuters.com
+---------------------------------------------------------------------------------------------
+
+Feed Subtitle: Reuters.com is your source for breaking news, business, financial and investing news, including personal finance and stocks.  Reuters is the leading global provider of news, financial information and technology solutions to the world's media, financial institutions, businesses and individuals.
+---------------------------------------------------------------------------------------------
+
+Feed rights: All rights reserved. Users may download and print extracts of content from this website for their own personal and non-commercial use only. Republication or redistribution of Reuters content, including by framing or similar means, is expressly prohibited without the prior written consent of Reuters. Reuters and the Reuters sphere logo are registered trademarks or trademarks of the Reuters group of companies around the world. © Reuters 2018
+---------------------------------------------------------------------------------------------
+
+post title : NFL roundup: Bears beat Rams, shake up playoff picture
+
+post link : http://feeds.reuters.com/~r/reuters/sportsNews/~3/qh-ZYkyG_lQ/nfl-roundup-bears-beat-rams-shake-up-playoff-picture-idUSKBN1O90KG
+
+post summary : In a marquee matchup of flashy offense against tough defense, it was all defense.
+
+post published : Mon, 10 Dec 2018 01:54:09 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : NHL roundup: Oilers shut out Flames
+
+post link : http://feeds.reuters.com/~r/reuters/sportsNews/~3/HoBXE1TT6rk/nhl-roundup-oilers-shut-out-flames-idUSKBN1O90HC
+
+post summary : Connor McDavid scored the game's lone goal midway through the first period and Mikko Koskinen collected a 24-save shutout as the host Edmonton Oilers held on for a 1-0 victory over the Calgary Flames on Sunday.
+
+post published : Mon, 10 Dec 2018 01:21:08 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : NBA roundup: Bucks muscle past Raptors again
+
+post link : http://feeds.reuters.com/~r/reuters/sportsNews/~3/G6rQhmAuQiM/nba-roundup-bucks-muscle-past-raptors-again-idUSKBN1O90AP
+
+post summary : Malcom Brogdon made two 3-pointers late in the fourth quarter, including the one for the go-ahead points with 40.7 seconds to play, and the visiting Milwaukee Bucks defeated the Toronto Raptors 104-99 on Sunday night.
+
+post published : Sun, 09 Dec 2018 23:10:50 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Chiefs beat Ravens in OT to clinch playoff berth
+
+post link : http://feeds.reuters.com/~r/reuters/sportsNews/~3/vJSYgbElbbQ/chiefs-beat-ravens-in-ot-to-clinch-playoff-berth-idUSKBN1O908L
+
+post summary : Quarterback Patrick Mahomes converted two fourth downs on a game-tying drive in regulation Sunday, and kicker Harrison Butker atoned for a missed field goal with a 35-yarder in overtime as the Kansas City Chiefs edged the Baltimore Ravens 27-24 at Kansas City, Mo.
+
+post published : Sun, 09 Dec 2018 22:13:27 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Rodgers breaks Brady's mark as Packers cruise past Falcons
+
+post link : http://feeds.reuters.com/~r/reuters/sportsNews/~3/TJx60rgJ3gE/rodgers-breaks-bradys-mark-as-packers-cruise-past-falcons-idUSKBN1O9036
+
+post summary : Aaron Rodgers broke Tom Brady's NFL record for most consecutive passes without an interception in style, setting the mark on a 24-yard touchdown pass to Randall Cobb that helped the Green Bay Packers beat the visiting Atlanta Falcons 34-20 on Sunday.
+
+post published : Sun, 09 Dec 2018 21:37:58 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Smith, Baines elected to Baseball Hall of Fame
+
+post link : http://feeds.reuters.com/~r/reuters/sportsNews/~3/mT0qU5ubrvU/smith-baines-elected-to-baseball-hall-of-fame-idUSKBN1O905N
+
+post summary : Relief pitcher Lee Smith and outfielder/designated hitter Harold Baines and were elected to the National Baseball Hall of Fame on Sunday by the entity's Today's Game Era Committee.
+
+post published : Sun, 09 Dec 2018 21:29:14 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : AC Milan: Ibrahimovic returning to Galaxy
+
+post link : http://feeds.reuters.com/~r/reuters/sportsNews/~3/13_xN59E__E/ac-milan-ibrahimovic-returning-to-galaxy-idUSKBN1O9057
+
+post summary : Zlatan Ibrahimovic intends to be back with the Los Angeles Galaxy in 2019 after considering a return to AC Milan, sporting director Leonardo told reporters on Sunday.
+
+post published : Sun, 09 Dec 2018 21:16:48 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : LeBron: Final matchup vs. Wade will be 'sweet, sour'
+
+post link : http://feeds.reuters.com/~r/reuters/sportsNews/~3/rARE4vzo_dU/lebron-final-matchup-vs-wade-will-be-sweet-sour-idUSKBN1O9034
+
+post summary : Monday night marks the end of an era as LeBron James and Dwayne Wade share the court for the final time when the Los Angeles Lakers host the Miami Heat. After 16 seasons in the league together, Wade is set to retire at the end of the 2018-19 campaign.
+
+post published : Sun, 09 Dec 2018 20:05:50 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : NFL Notebook: Ravens QB situation gets a little cloudier
+
+post link : http://feeds.reuters.com/~r/reuters/sportsNews/~3/iUSelBuIRbk/nfl-notebook-ravens-qb-situation-gets-a-little-cloudier-idUSKBN1O902W
+
+post summary : Baltimore Ravens quarterback Lamar Jackson missed the final two plays of his team's 27-24 overtime loss in Kansas City on Sunday after he was hit but appears to have avoided major injury. However it looks like the Ravens now have a decision to make behind center.
+
+post published : Sun, 09 Dec 2018 19:58:05 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Esports: Head coach resigns after remarks about mental health
+
+post link : http://feeds.reuters.com/~r/reuters/sportsNews/~3/cBz5rGRZL4A/esports-head-coach-resigns-after-remarks-about-mental-health-idUSKBN1O80PN
+
+post summary : Brandon 'Saintvicious' DiMarco has resigned as head coach of esports team FlyQuest after a furious reaction to his comments deriding mental health conditions like depression.
+
+post published : Sun, 09 Dec 2018 14:35:21 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Reports: Hunt to begin counseling
+
+post link : http://feeds.reuters.com/~r/reuters/sportsNews/~3/k6XGG9w-31A/reports-hunt-to-begin-counseling-idUSKBN1O80O0
+
+post summary : While the NFL mulls further punishment for Kareem Hunt, the former Kansas City Chiefs running back is seeking counseling for alcohol and anger issues, according to multiple reports.
+
+post published : Sun, 09 Dec 2018 12:38:51 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Transgender fighter wins in historic pro debut
+
+post link : http://feeds.reuters.com/~r/reuters/sportsNews/~3/MhO8uHupgTI/transgender-fighter-wins-in-historic-pro-debut-idUSKBN1O80NC
+
+post summary : Patricio Manuel made boxing history on Saturday night, becoming the first transgender male to fight professionally in the United States.
+
+post published : Sun, 09 Dec 2018 12:15:24 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Report: GM McKenzie to leave Raiders at season's end
+
+post link : http://feeds.reuters.com/~r/reuters/sportsNews/~3/q8C7RJGPI9s/report-gm-mckenzie-to-leave-raiders-at-seasons-end-idUSKBN1O80NB
+
+post summary : The Oakland Raiders and general manager Reggie McKenzie will part ways after the season ends, according to a CBS Sports report Sunday.
+
+post published : Sun, 09 Dec 2018 12:14:20 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Heisman winner Murray apologizes for homophobic tweets
+
+post link : http://feeds.reuters.com/~r/reuters/sportsNews/~3/51ewlbEzjhU/heisman-winner-murray-apologizes-for-homophobic-tweets-idUSKBN1O80N8
+
+post summary : Kyler Murray celebrated his Heisman Trophy win in New York on Saturday night, but not long after the Oklahoma quarterback found himself playing defense.
+
+post published : Sun, 09 Dec 2018 12:12:33 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Golf: Oosthuizen romps to maiden South African Open win
+
+post link : http://feeds.reuters.com/~r/reuters/sportsNews/~3/cHo-EwibAzQ/golf-oosthuizen-romps-to-maiden-south-african-open-win-idUSKBN1O80EB
+
+post summary : Home favorite Louis Oosthuizen romped to a first-ever South African Open title after extending his overnight lead and finishing six shots clear after carding a final round 67 at the Randpark Golf Club on Sunday.
+
+post published : Sun, 09 Dec 2018 07:51:49 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Top swimmers challenge FINA with lawsuit
+
+post link : http://feeds.reuters.com/~r/reuters/sportsNews/~3/XGSym8dciJ0/top-swimmers-challenge-fina-with-lawsuit-idUSKBN1O808V
+
+post summary : Three world-class swimmers have filed a lawsuit in the United States, challenging what they allege is the monopoly world governing body FINA has over the control of international competitions.
+
+post published : Sun, 09 Dec 2018 05:11:38 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Afghanistan suspends officials after women's soccer team abuse investigation
+
+post link : http://feeds.reuters.com/~r/reuters/sportsNews/~3/7CPnZfnzpiQ/afghanistan-suspends-officials-after-womens-soccer-team-abuse-investigation-idUSKBN1O807W
+
+post summary : Afghanistan's Attorney General has suspended the head of the Afghan Football Federation after a probe into allegations of sexual abuse of members of the national women's soccer team, a spokesman for the attorney general said on Sunday.
+
+post published : Sun, 09 Dec 2018 05:04:39 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : NBA roundup: Celts win by 56, make history with Bulls
+
+post link : http://feeds.reuters.com/~r/reuters/sportsNews/~3/pcYgqcewyig/nba-roundup-celts-win-by-56-make-history-with-bulls-idUSKBN1O805Z
+
+post summary : Daniel Theis scored a career-high 22 points, and the Boston Celtics opened the game with 17 consecutive points while rolling to an easy 133-77 victory over the host Chicago Bulls on Saturday night. It was the Celtics' largest margin of victory in franchise history.
+
+post published : Sun, 09 Dec 2018 02:29:15 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Celtics hand Bulls worst loss in franchise history
+
+post link : http://feeds.reuters.com/~r/reuters/sportsNews/~3/xApJGPAwAH0/celtics-hand-bulls-worst-loss-in-franchise-history-idUSKBN1O804C
+
+post summary : Daniel Theis scored a career-high 22 points, and Boston opened the game with 17 consecutive points while rolling to an easy 133-77 victory over the host Chicago Bulls on Saturday night.
+
+post published : Sun, 09 Dec 2018 01:41:08 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : NHL roundup: Lightning erupt for seven goals
+
+post link : http://feeds.reuters.com/~r/reuters/sportsNews/~3/cJ_Rxd5R5sg/nhl-roundup-lightning-erupt-for-seven-goals-idUSKBN1O8050
+
+post summary : Steven Stamkos scored twice in a span of a little more than 10 minutes in the first period Saturday night to initiate an outburst by the Tampa Bay Lightning, who rolled to a 7-1 win over the visiting Colorado Avalanche.
+
+post published : Sun, 09 Dec 2018 01:26:29 -0500
+-------------------------------------------------------------------------------------------------------------
+
+

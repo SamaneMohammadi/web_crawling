@@ -1,0 +1,351 @@
+
+-------------------------------------- PoliticsNews -------------------------------------
+
+Feed title: Reuters: Politics
+---------------------------------------------------------------------------------------------
+
+Feed Link: https://www.reuters.com
+---------------------------------------------------------------------------------------------
+
+Feed Subtitle: Reuters.com is your source for breaking news, business, financial and investing news, including personal finance and stocks.  Reuters is the leading global provider of news, financial information and technology solutions to the world's media, financial institutions, businesses and individuals.
+---------------------------------------------------------------------------------------------
+
+Feed rights: All rights reserved. Users may download and print extracts of content from this website for their own personal and non-commercial use only. Republication or redistribution of Reuters content, including by framing or similar means, is expressly prohibited without the prior written consent of Reuters. Reuters and the Reuters sphere logo are registered trademarks or trademarks of the Reuters group of companies around the world. © Reuters 2018
+---------------------------------------------------------------------------------------------
+
+post title : With new chief of staff, Trump tries again to reset White House
+
+post link : http://feeds.reuters.com/~r/Reuters/PoliticsNews/~3/1QMqj7ovGP8/with-new-chief-of-staff-trump-tries-again-to-reset-white-house-idUSKBN1O80JI
+
+post summary : Nick Ayers, in talks with President Donald Trump to become his new White House chief of staff, is a 36-year-old political whiz-kid who could help with the looming re-election campaign, but critics question whether he has the grit needed to keep Trump and an often chaotic administration under control.
+
+post published : Sun, 09 Dec 2018 10:33:01 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Trump pardon of Manafort would be 'terrible mistake': Senator Rubio
+
+post link : http://feeds.reuters.com/~r/Reuters/PoliticsNews/~3/hdFuqvjsKkM/trump-pardon-of-manafort-would-be-terrible-mistake-senator-rubio-idUSKBN1O80I9
+
+post summary : U.S. President Donald Trump would make a "terrible mistake" if he pardoned his former campaign Chairman Paul Manafort after charges brought as a result of the federal probe into Russian election interference, Republican Senator Marco Rubio said on Sunday.
+
+post published : Sun, 09 Dec 2018 10:13:18 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : FBI investigated four Americans on Russia collusion suspicions: Comey
+
+post link : http://feeds.reuters.com/~r/Reuters/PoliticsNews/~3/W_4Vk0EJB1o/fbi-investigated-four-americans-on-russia-collusion-suspicions-comey-idUSKBN1O70T3
+
+post summary : The FBI launched investigations of four Americans in July 2016 into whether they helped Russia's alleged efforts to interfere in the 2016 U.S. presidential election, former FBI Director James Comey said in remarks released on Saturday.
+
+post published : Sun, 09 Dec 2018 10:00:12 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Trump calls for end to Mueller probe despite Russian campaign bid findings
+
+post link : http://feeds.reuters.com/~r/Reuters/PoliticsNews/~3/KFCP1WJZCco/trump-calls-for-end-to-mueller-probe-despite-russian-campaign-bid-findings-idUSKBN1O70GP
+
+post summary : U.S. President Donald Trump on Saturday renewed his call to end a federal probe into Russian election meddling, describing the investigation as a "witch hunt" a day after U.S. prosecutors detailed a previously unknown attempt by a Russian to help his 2016 presidential election campaign.
+
+post published : Sun, 09 Dec 2018 00:21:00 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : U.S. prosecutors name Trump in hush payments, detail Russian contacts
+
+post link : http://feeds.reuters.com/~r/Reuters/PoliticsNews/~3/lway35nMS2s/u-s-prosecutors-name-trump-in-hush-payments-detail-russian-contacts-idUSKBN1O60P2
+
+post summary : U.S. prosecutors said on Friday President Donald Trump directed his personal lawyer to make illegal hush payments to two women ahead of the 2016 election, and also detailed a previously unknown attempt by a Russian to help the Trump campaign.
+
+post published : Sat, 08 Dec 2018 20:09:08 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Trump says Kelly will leave chief of staff job at end of year
+
+post link : http://feeds.reuters.com/~r/Reuters/PoliticsNews/~3/1ik-6vvei-M/trump-says-kelly-will-leave-chief-of-staff-job-at-end-of-year-idUSKBN1O70R1
+
+post summary : White House Chief of Staff John Kelly will leave his job at the end of the year, U.S. President Donald Trump said on Saturday, his latest staff shakeup since midterm elections a month ago cost Republicans control of the House of Representatives.
+
+post published : Sat, 08 Dec 2018 18:44:30 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Trump is in talks with Pence aide Ayers to replace Kelly
+
+post link : http://feeds.reuters.com/~r/Reuters/PoliticsNews/~3/9GlHf0RI4yo/trump-is-in-talks-with-pence-aide-ayers-to-replace-kelly-idUSKBN1O70RZ
+
+post summary : U.S. President Donald Trump is talking to an aide to Vice President Mike Pence about serving as replacement for out-going White House Chief of Staff John Kelly, a White House official said on Saturday.
+
+post published : Sat, 08 Dec 2018 18:44:30 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Factbox: Trump administration departures, resignations and firings
+
+post link : http://feeds.reuters.com/~r/Reuters/PoliticsNews/~3/XF-wG_4LuFg/factbox-trump-administration-departures-resignations-and-firings-idUSKBN1O70TQ
+
+post summary : President Donald Trump said on Saturday that White House Chief of Staff John Kelly will leave his job at the end of the year, extending the historically high turnover in the top ranks of his administration.
+
+post published : Sat, 08 Dec 2018 18:44:30 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Trump to nominate Milley as next chairman of Joint Chiefs
+
+post link : http://feeds.reuters.com/~r/Reuters/PoliticsNews/~3/Z0jw9uVVTlQ/trump-to-nominate-milley-as-next-chairman-of-joint-chiefs-idUSKBN1O70JS
+
+post summary : U.S. President Donald Trump announced on Saturday that he would nominate four-star Army General Mark Milley to be the next chairman of the Joint Chiefs of Staff.
+
+post published : Sat, 08 Dec 2018 13:55:10 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : U.S. appeals court will not restore Trump asylum order
+
+post link : http://feeds.reuters.com/~r/Reuters/PoliticsNews/~3/GabB5rsmFpk/u-s-appeals-court-will-not-restore-trump-asylum-order-idUSKBN1O703K
+
+post summary : A U.S. appeals court handed President Donald Trump a defeat on Friday when it refused to allow his order barring asylum for immigrants who enter the country illegally to take effect, while a court challenge proceeds.
+
+post published : Sat, 08 Dec 2018 07:09:39 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Explainer: How does extradition to the U.S. work?
+
+post link : http://feeds.reuters.com/~r/Reuters/PoliticsNews/~3/zs2rICA8utM/explainer-how-does-extradition-to-the-u-s-work-idUSKBN1O528Y
+
+post summary : The arrest in Canada of a top Chinese technology executive for possible extradition to the United States has roiled markets and cast doubt on a recent U.S.-China trade truce.
+
+post published : Fri, 07 Dec 2018 22:29:54 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Ex-FBI chief Comey agrees to testify for second day before House panels
+
+post link : http://feeds.reuters.com/~r/Reuters/PoliticsNews/~3/atR8HwQUnyw/ex-fbi-chief-comey-agrees-to-testify-for-second-day-before-house-panels-idUSKBN1O62GM
+
+post summary : Former FBI Director James Comey testified about former Secretary of State Hillary Clinton's emails behind closed doors on Friday before House of Representatives lawmakers and said he believed the session could have been public.
+
+post published : Fri, 07 Dec 2018 20:29:35 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : North Carolina elections board identifies 'person of interest' in fraud probe
+
+post link : http://feeds.reuters.com/~r/Reuters/PoliticsNews/~3/D62p_Uj7_j0/north-carolina-elections-board-identifies-person-of-interest-in-fraud-probe-idUSKBN1O62BQ
+
+post summary : North Carolina's board of elections named political consultant Leslie McCrae Dowless as a person of interest on Friday amid a probe of possible absentee ballot fraud in a disputed U.S. congressional election.
+
+post published : Fri, 07 Dec 2018 20:21:25 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Mueller: ex-Trump campaign chairman Manafort lied to investigators about funds, contacts
+
+post link : http://feeds.reuters.com/~r/Reuters/PoliticsNews/~3/DwEHBLgT7_I/mueller-ex-trump-campaign-chairman-manafort-lied-to-investigators-about-funds-contacts-idUSKBN1O62K5
+
+post summary : U.S. President Donald Trump's former campaign chairman Paul Manafort lied to federal investigators about a payment and contacts with Trump administration officials, the U.S. special counsel investigating whether Trump's 2016 campaign colluded with Russia said in a court filing on Friday.
+
+post published : Fri, 07 Dec 2018 18:55:50 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : N.Y. federal prosecutors seek prison for former Trump lawyer Cohen
+
+post link : http://feeds.reuters.com/~r/Reuters/PoliticsNews/~3/c8GCVEFwnPU/n-y-federal-prosecutors-seek-prison-for-former-trump-lawyer-cohen-idUSKBN1O62FN
+
+post summary : Federal prosecutors in Manhattan on Friday asked a judge to sentence Michael Cohen, U.S. President Donald Trump's former personal lawyer, to a "substantial term of imprisonment" for paying an adult film star hush money on Trump's behalf and evading taxes.
+
+post published : Fri, 07 Dec 2018 17:06:22 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Trump seen picking Army head Milley as next chairman of Joint Chiefs
+
+post link : http://feeds.reuters.com/~r/Reuters/PoliticsNews/~3/MQO8icrrCYE/trump-seen-picking-army-head-milley-as-next-chairman-of-joint-chiefs-idUSKBN1O629W
+
+post summary : U.S. President Donald Trump is expected to name the Army's top general, Mark Milley, as the next chairman of the Joint Chiefs of Staff, U.S. officials told Reuters on Friday, in a decision that appears to be coming months earlier than expected.
+
+post published : Fri, 07 Dec 2018 17:04:58 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Trump calls Tillerson 'dumb as a rock' and 'lazy'
+
+post link : http://feeds.reuters.com/~r/Reuters/PoliticsNews/~3/67Nx2uCYP-g/trump-calls-tillerson-dumb-as-a-rock-and-lazy-idUSKBN1O62CO
+
+post summary : U.S. President Donald Trump on Friday called former Secretary of State Rex Tillerson "dumb as a rock" and "lazy as hell" a day after the former diplomat said he had warned the president against doing things that would violate the law.
+
+post published : Fri, 07 Dec 2018 16:38:59 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Trump picks attorney general and U.N. envoy in fresh staff shake-up
+
+post link : http://feeds.reuters.com/~r/Reuters/PoliticsNews/~3/lErtR2hIH04/trump-picks-attorney-general-and-u-n-envoy-in-fresh-staff-shake-up-idUSKBN1O61YN
+
+post summary : In another senior staff shake-up inside his often turbulent administration, U.S. President Donald Trump said on Friday he has picked the two people he wants to be the next U.S. attorney general and the next U.S. ambassador to the United Nations.
+
+post published : Fri, 07 Dec 2018 15:30:49 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Justice Department office gave advice on acting AG's role in Russia probe: report
+
+post link : http://feeds.reuters.com/~r/Reuters/PoliticsNews/~3/KHxlX0J25OE/justice-department-office-gave-advice-on-acting-ags-role-in-russia-probe-report-idUSKBN1O62C0
+
+post summary : A U.S. Justice Department ethics office has received requests for advice and issued guidance about Acting U.S. Attorney General Matthew Whitaker's role in the special counsel investigation into Russian meddling in the 2016 election, the Washington Post reported on Friday.
+
+post published : Fri, 07 Dec 2018 14:57:16 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Trump upbeat on China talks; aides downplay Huawei arrest friction
+
+post link : http://feeds.reuters.com/~r/Reuters/PoliticsNews/~3/QDZSfXDL5bk/trump-upbeat-on-china-talks-aides-downplay-huawei-arrest-friction-idUSKBN1O61ZZ
+
+post summary : U.S. President Donald Trump on Friday sounded an optimistic note about trade negotiations with China as two of his top economic advisers downplayed friction from the arrest of a senior executive of Chinese telecom equipment maker Huawei Technologies.
+
+post published : Fri, 07 Dec 2018 14:41:35 -0500
+-------------------------------------------------------------------------------------------------------------
+-------------------------------------- sportsNews -------------------------------------
+
+Feed title: Reuters: Sports News
+---------------------------------------------------------------------------------------------
+
+Feed Link: https://www.reuters.com
+---------------------------------------------------------------------------------------------
+
+Feed Subtitle: Reuters.com is your source for breaking news, business, financial and investing news, including personal finance and stocks.  Reuters is the leading global provider of news, financial information and technology solutions to the world's media, financial institutions, businesses and individuals.
+---------------------------------------------------------------------------------------------
+
+Feed rights: All rights reserved. Users may download and print extracts of content from this website for their own personal and non-commercial use only. Republication or redistribution of Reuters content, including by framing or similar means, is expressly prohibited without the prior written consent of Reuters. Reuters and the Reuters sphere logo are registered trademarks or trademarks of the Reuters group of companies around the world. © Reuters 2018
+---------------------------------------------------------------------------------------------
+
+post title : Golf: Oosthuizen romps to maiden South African Open win
+
+post link : http://feeds.reuters.com/~r/reuters/sportsNews/~3/cHo-EwibAzQ/golf-oosthuizen-romps-to-maiden-south-african-open-win-idUSKBN1O80EB
+
+post summary : Home favorite Louis Oosthuizen romped to a first-ever South African Open title after extending his overnight lead and finishing six shots clear after carding a final round 67 at the Randpark Golf Club on Sunday.
+
+post published : Sun, 09 Dec 2018 07:51:49 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Top swimmers challenge FINA with lawsuit
+
+post link : http://feeds.reuters.com/~r/reuters/sportsNews/~3/XGSym8dciJ0/top-swimmers-challenge-fina-with-lawsuit-idUSKBN1O808V
+
+post summary : Three world-class swimmers have filed a lawsuit in the United States, challenging what they allege is the monopoly world governing body FINA has over the control of international competitions.
+
+post published : Sun, 09 Dec 2018 05:11:38 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Afghanistan suspends officials after women's soccer team abuse investigation
+
+post link : http://feeds.reuters.com/~r/reuters/sportsNews/~3/7CPnZfnzpiQ/afghanistan-suspends-officials-after-womens-soccer-team-abuse-investigation-idUSKBN1O807W
+
+post summary : Afghanistan's Attorney General has suspended the head of the Afghan Football Federation after a probe into allegations of sexual abuse of members of the national women's soccer team, a spokesman for the attorney general said on Sunday.
+
+post published : Sun, 09 Dec 2018 05:04:39 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : NBA roundup: Celts win by 56, make history with Bulls
+
+post link : http://feeds.reuters.com/~r/reuters/sportsNews/~3/pcYgqcewyig/nba-roundup-celts-win-by-56-make-history-with-bulls-idUSKBN1O805Z
+
+post summary : Daniel Theis scored a career-high 22 points, and the Boston Celtics opened the game with 17 consecutive points while rolling to an easy 133-77 victory over the host Chicago Bulls on Saturday night. It was the Celtics' largest margin of victory in franchise history.
+
+post published : Sun, 09 Dec 2018 02:29:15 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Celtics hand Bulls worst loss in franchise history
+
+post link : http://feeds.reuters.com/~r/reuters/sportsNews/~3/xApJGPAwAH0/celtics-hand-bulls-worst-loss-in-franchise-history-idUSKBN1O804C
+
+post summary : Daniel Theis scored a career-high 22 points, and Boston opened the game with 17 consecutive points while rolling to an easy 133-77 victory over the host Chicago Bulls on Saturday night.
+
+post published : Sun, 09 Dec 2018 01:41:08 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : NHL roundup: Lightning erupt for seven goals
+
+post link : http://feeds.reuters.com/~r/reuters/sportsNews/~3/cJ_Rxd5R5sg/nhl-roundup-lightning-erupt-for-seven-goals-idUSKBN1O8050
+
+post summary : Steven Stamkos scored twice in a span of a little more than 10 minutes in the first period Saturday night to initiate an outburst by the Tampa Bay Lightning, who rolled to a 7-1 win over the visiting Colorado Avalanche.
+
+post published : Sun, 09 Dec 2018 01:26:29 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Top 25 roundup: Seton Hall upsets No. 9 Kentucky in overtime
+
+post link : http://feeds.reuters.com/~r/reuters/sportsNews/~3/oS9fsVgmfxI/top-25-roundup-seton-hall-upsets-no-9-kentucky-in-overtime-idUSKBN1O802I
+
+post summary : Myles Cale hit a 3-pointer with eight seconds left in overtime to lift Seton Hall to an 84-83 upset of No. 9 Kentucky on Saturday at Madison Square Garden in New York.
+
+post published : Sat, 08 Dec 2018 23:38:43 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Atlanta United win MLS Cup beating Portland in final
+
+post link : http://feeds.reuters.com/~r/reuters/sportsNews/~3/3aVkh1H2IHM/atlanta-united-win-mls-cup-beating-portland-in-final-idUSKBN1O802S
+
+post summary : Atlanta United FC used a distinctly Latin flair to win the   Major League Soccer (MLS) Cup final on Saturday, beating Portland Timbers 2-0 to bring the city a rare professional sporting trophy.
+
+post published : Sat, 08 Dec 2018 23:30:03 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Oklahoma's Murray beats out Tide's Tagovailoa for Heisman
+
+post link : http://feeds.reuters.com/~r/reuters/sportsNews/~3/iktLbgjbmyA/oklahomas-murray-beats-out-tides-tagovailoa-for-heisman-idUSKBN1O801S
+
+post summary : For the second consecutive season, an Oklahoma quarterback won the Heisman Trophy when Kyler Murray was announced as the winner Saturday night at the PlayStation Theater in New York City.
+
+post published : Sat, 08 Dec 2018 22:26:57 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Army tops Navy for eighth straight win
+
+post link : http://feeds.reuters.com/~r/reuters/sportsNews/~3/dg1OXluGAdI/army-tops-navy-for-eighth-straight-win-idUSKBN1O800O
+
+post summary : Quarterback Kelvin Hopkins Jr. ran for two touchdowns, and Army defeated Navy 17-10 in the annual battle between the two military schools on Saturday in Philadelphia.
+
+post published : Sat, 08 Dec 2018 20:23:33 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Eagles attempting to catch first-place Cowboys
+
+post link : http://feeds.reuters.com/~r/reuters/sportsNews/~3/kopHCp17Zqo/eagles-attempting-to-catch-first-place-cowboys-idUSKBN1O800S
+
+post summary : The Philadelphia Eagles will be attempting to pull into a tie for first place in the NFC East with a win at Dallas on Sunday afternoon.
+
+post published : Sat, 08 Dec 2018 19:52:39 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : NFL notebook: Giants' Beckham (quad) to miss game
+
+post link : http://feeds.reuters.com/~r/reuters/sportsNews/~3/tFNXWkcA3Kw/nfl-notebook-giants-beckham-to-miss-game-idUSKBN1O800Q
+
+post summary : New York Giants wide receiver Odell Beckham Jr. will be sidelined for Sunday's game against the Washington Redskins as he recovers from a bruised quadriceps, the team announced on Saturday.
+
+post published : Sat, 08 Dec 2018 19:48:36 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Cale's 3-pointer gives Seton Hall upset of No. 9 Kentucky
+
+post link : http://feeds.reuters.com/~r/reuters/sportsNews/~3/P6H06h2BAiY/cales-3-pointer-gives-seton-hall-upset-of-no-9-kentucky-idUSKBN1O70TJ
+
+post summary : Myles Cale hit a 3-pointer with eight seconds left in overtime to lift Seton Hall to an 84-83 upset of No. 9 Kentucky on Saturday at Madison Square Garden in New York.
+
+post published : Sat, 08 Dec 2018 16:55:59 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : NHL roundup: Bishop, Stars hold off Sharks
+
+post link : http://feeds.reuters.com/~r/reuters/sportsNews/~3/ltsy-PKSR6c/nhl-roundup-bishop-stars-hold-off-sharks-idUSKBN1O709G
+
+post summary : Miro Heiskanen and Brett Ritchie found the net in a span of 1:48 of the third period, and Ben Bishop turned away a season-high 41 shots as the host Dallas Stars held off the San Jose Sharks 3-2 on Friday to win a season-high fourth consecutive game.
+
+post published : Sat, 08 Dec 2018 16:52:14 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : NBA roundup: Nets stun Raptors with overtime win
+
+post link : http://feeds.reuters.com/~r/reuters/sportsNews/~3/0pDlv_fd3Fs/nba-roundup-nets-stun-raptors-with-overtime-win-idUSKBN1O7090
+
+post summary : Jarrett Allen hit the go-ahead layup with 64 seconds left in overtime, and the Brooklyn Nets outlasted the Toronto Raptors for a 106-105 victory Friday night in New York, ending a pair of eight-game losing streaks.
+
+post published : Sat, 08 Dec 2018 16:51:23 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Soccer - Champions U.S. get favorable draw in Women's World Cup
+
+post link : http://feeds.reuters.com/~r/reuters/sportsNews/~3/7g3gP7pdDdU/soccer-champions-u-s-get-favorable-draw-in-womens-world-cup-idUSKBN1O70T7
+
+post summary : World champions the United States will be favorites to lift a record fourth Women's World Cup following the draw for next year's tournament on Saturday, while hosts France play the opening match against South Korea in Paris on June 7.
+
+post published : Sat, 08 Dec 2018 16:48:01 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Soccer - Ellis wants tough preparations for U.S. World Cup defense
+
+post link : http://feeds.reuters.com/~r/reuters/sportsNews/~3/JfXqsnBQlNc/soccer-ellis-wants-tough-preparations-for-u-s-world-cup-defense-idUSKBN1O70T9
+
+post summary : The United States will have a gruelling schedule ahead of the women's World Cup in France next year in order to be battle-ready for their bid to clinch a record fourth crown, head coach Jill Ellis said on Saturday.
+
+post published : Sat, 08 Dec 2018 16:47:28 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Ohio State names Hartline permanent WR coach
+
+post link : http://feeds.reuters.com/~r/reuters/sportsNews/~3/ZXBEGE5IfP0/ohio-state-names-hartline-permanent-wr-coach-idUSKBN1O70PV
+
+post summary : Ohio State has named alum Brian Hartline, who served as the Buckeyes' interim wide receiver coach this season after the firing of Zach Smith, to the position on a permanent basis, the school announced Saturday.
+
+post published : Sat, 08 Dec 2018 12:35:47 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Ohio State names Hartline permanent WR coach
+
+post link : http://feeds.reuters.com/~r/reuters/sportsNews/~3/ishGbUK5xfc/ohio-state-names-hartline-permanent-wr-coach-idUSKBN1O70PS
+
+post summary : Ohio State has named alum Brian Hartline, who served as the Buckeyes' interim wide receiver coach this season after the firing of Zach Smith, to the position on a permanent basis, the school announced Saturday.
+
+post published : Sat, 08 Dec 2018 12:34:18 -0500
+-------------------------------------------------------------------------------------------------------------
+post title : Haskins bucks trend, will play in Rose Bowl
+
+post link : http://feeds.reuters.com/~r/reuters/sportsNews/~3/ThCfK2AiB9M/haskins-bucks-trend-will-play-in-rose-bowl-idUSKBN1O70O2
+
+post summary : Ohio State quarterback Dwayne Haskins will continue his historic season in the Rose Bowl, regardless of whether he decides to enter the NFL draft.
+
+post published : Sat, 08 Dec 2018 11:38:34 -0500
+-------------------------------------------------------------------------------------------------------------
+
+
